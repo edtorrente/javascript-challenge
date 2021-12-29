@@ -1,3 +1,3 @@
 # javascript-challenge
 
-##Javascript and DOM manipulation
+Javascript and DOM manipulation
